@@ -5,7 +5,7 @@
 
 ## Overview 
 
-This module introduces participants to modern AI development tooling, showing how different categories of tools can enhance the developer experience. 
+This module introduces participants to modern AI development tooling, showing how different categories of tools can enhance developer's experience. 
 
 - Chat Applications: great for exploration and brainstorming, but less convenient for iterative development.  
 - Coding Assistants / IDE Integrations: help write, refactor, and test code directly inside development environments.  
@@ -63,4 +63,12 @@ They form the backbone of many assistants and scaffolders.
 		-it ghcr.io/anthropics/anthropic-quickstarts:computer-use-demo-latest
 	```  
 - [PR Agent](https://github.com/qodo-ai/pr-agent) — Automates pull request reviews and suggestions.
+
+
+
+## Community notes
+
+Did you take notes? You can share them here
+
+* Add a link to your notes above this line
 
